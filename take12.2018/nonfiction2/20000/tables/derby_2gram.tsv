@@ -1,0 +1,11 @@
+text	Belyi_Ritm_partition_part1_wordlist_2gram.tsv	Belyi_Ritm_partition_part2_wordlist_2gram.tsv	BogorazTan_RasprostroneniyeKultury_partition_part1_wordlist_2gram.tsv	BogorazTan_RasprostroneniyeKultury_partition_part2_wordlist_2gram.tsv	BogorazTan_RasprostroneniyeKultury_partition_part3_wordlist_2gram.tsv	BogorazTan_RasprostroneniyeKultury_partition_part4_wordlist_2gram.tsv	Dusinskiy_OsnjvnyeVoprosy_partition_part1_wordlist_2gram.tsv	Dusinskiy_OsnjvnyeVoprosy_partition_part2_wordlist_2gram.tsv	Dusinskiy_OsnjvnyeVoprosy_partition_part3_wordlist_2gram.tsv	Dusinskiy_OsnjvnyeVoprosy_partition_part4_wordlist_2gram.tsv
+Belyi_Ritm_partition_part1_wordlist_2gram	0	1088	0	0	0	0	0	0	0	0
+Belyi_Ritm_partition_part2_wordlist_2gram	1088	0	0	0	0	0	0	0	0	0
+BogorazTan_RasprostroneniyeKultury_partition_part1_wordlist_2gram	0	0	0	1121	1201	866	0	0	0	0
+BogorazTan_RasprostroneniyeKultury_partition_part2_wordlist_2gram	0	0	1121	0	1231	947	0	0	0	0
+BogorazTan_RasprostroneniyeKultury_partition_part3_wordlist_2gram	0	0	1201	1231	0	895	0	0	0	0
+BogorazTan_RasprostroneniyeKultury_partition_part4_wordlist_2gram	0	0	866	947	895	0	0	0	0	0
+Dusinskiy_OsnjvnyeVoprosy_partition_part1_wordlist_2gram	0	0	0	0	0	0	0	1642	1614	1577
+Dusinskiy_OsnjvnyeVoprosy_partition_part2_wordlist_2gram	0	0	0	0	0	0	1642	0	1673	1605
+Dusinskiy_OsnjvnyeVoprosy_partition_part3_wordlist_2gram	0	0	0	0	0	0	1614	1673	0	1720
+Dusinskiy_OsnjvnyeVoprosy_partition_part4_wordlist_2gram	0	0	0	0	0	0	1577	1605	1720	0
